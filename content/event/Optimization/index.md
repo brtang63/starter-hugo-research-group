@@ -1,24 +1,24 @@
 ---
-title: Example Event
+title: Seminar on Optimization and Algorithm
 
-event: Wowchemy Conference
+event: Lab Seminar
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: USTC Management Science Building and Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 450 Serra Mall
+  city: Hefei
+  region: Anhui
+  # postcode: '94305'
+  country: China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: We present the basic tools in Optimization and listen the lectures presented by Prof. Bingsheng He. 
+abstract: We cover selected topics in "Numerical Optimization", including Line Search Method, Trust Region Method, Conjugate Gradient Method, Quasi-Newton Methods and Simplex Optimization. Besides, in the middle of the term, we listen Prof Bingsheng He from Nanjing University presenting his work on Optimization.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '7:00pm-9:00pm, Tuesday, 2022 Spring'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
